@@ -10,7 +10,7 @@ class Program
   public static void Main(string[] args)
   {
 
-    RecipeRepository repository = new RecipeRepository();
+    RecipeRepository repository = new RecipeRepository(); // this is the crud function (Create,Read,Update,Delete)
 
     while (true)
     {
