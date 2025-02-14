@@ -2,11 +2,11 @@
   {
     "Title": "Pancakes",
     "Ingredients": ["Flour", "Milk", "Eggs", "Sugar"],
-    "Instructions": "mix and cook"
+    "Instructions": "Mix and Cook"
   },
   {
     "Title": "milkshake",
-    "Ingredients": ["milk", "chocolate and bananas"],
+    "Ingredients": ["Milk", "Chocolate and Bananas"],
     "Instructions": ""
   }
 ]
