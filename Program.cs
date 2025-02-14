@@ -94,7 +94,7 @@ class Program
 
   }
 
-  static void AddRecipe(RecipeRepository repository) // Update function that allows you to update ingredients ect.
+  static void AddRecipe(RecipeRepository repository) // Update function that allows user to update ingredients ect.
   {
     Console.WriteLine("Enter recipe title:");
     string? title = Console.ReadLine();
@@ -120,7 +120,7 @@ class Program
     Console.WriteLine("Recipe added");
   } 
 
-  static void DeleteRecipe(RecipeRepository repository) //Delete function that allows you to delete recipes ect.
+  static void DeleteRecipe(RecipeRepository repository) // Delete function that allows user to delete recipes ect.
   {
     Console.WriteLine("Enter the title of the recipe you want to delete:");
     string? titleToDelete = Console.ReadLine();
@@ -140,7 +140,7 @@ class Program
     }
   }
 
-  static void EditRecipe(RecipeRepository repository) // Update function // Allows user to updat-add ingredients or recipes in terminal
+  static void EditRecipe(RecipeRepository repository) // Update function // Allows user to update-add ingredients or recipes in terminal
   {
     Console.WriteLine("Title of the recipe you want to edit:");
     string? titleToEdit = Console.ReadLine();
