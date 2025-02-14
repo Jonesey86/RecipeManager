@@ -10,7 +10,8 @@ class Program
   public static void Main(string[] args)
   {
 
-    RecipeRepository repository = new RecipeRepository(); // this is the crud function (Create,Read,Update,Delete) //Create function
+    RecipeRepository repository = new RecipeRepository(); // this is the crud function (Create,Read,Update,Delete)
+    // Create function that allows you to add-edit-update-delete recipe
 
     while (true)
     {
@@ -93,7 +94,7 @@ class Program
 
   }
 
-  static void AddRecipe(RecipeRepository repository) //Update function 
+  static void AddRecipe(RecipeRepository repository) // Update function that allows you to update ingredients ect.
   {
     Console.WriteLine("Enter recipe title:");
     string? title = Console.ReadLine();
@@ -119,7 +120,7 @@ class Program
     Console.WriteLine("Recipe added");
   } 
 
-  static void DeleteRecipe(RecipeRepository repository) //Delete function
+  static void DeleteRecipe(RecipeRepository repository) //Delete function that allows you to delete recipes ect.
   {
     Console.WriteLine("Enter the title of the recipe you want to delete:");
     string? titleToDelete = Console.ReadLine();
