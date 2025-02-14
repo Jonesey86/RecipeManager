@@ -3,6 +3,7 @@
 * Introduction 📖
 * I made this to practice C# and to practice with lists and data management (CRUD).
 * (CRUD) Create-Read-Update-Delete.
+* Its a simple crud application that allows user to make a recipe list's and have management controll.
 
 * It has view, add, delete and update functions, it also stores the data in .json
  
@@ -17,5 +18,6 @@
 * Visual studio code 
 * C#
 * Newtonsoft.Json
+* 
 
 * If you have any questions or inquiries please contact me via E-Mail 📩 
