@@ -4,13 +4,14 @@
 * I made this to practice C# and to practice with lists and data management (CRUD).
 * (CRUD) Create-Read-Update-Delete.
 
- It has view, add, delete and update functions, it also stores the data in .json
+* It has view, add, delete and update functions, it also stores the data in .json
  
 
-How to use 💻
-dotnet run
-follow instructions on screen to add, edit, view or delete
-Package used
+💻 How to use 💻
+* In visual Code Studios go to Terminal tab-Open new Terminal- then follow instructions bellow to be able to run program.
+* dotnet run
+* follow instructions on screen to add, edit, view or delete
+* Package used
 
 📚 Tech used 📚
 * Visual studio code 
