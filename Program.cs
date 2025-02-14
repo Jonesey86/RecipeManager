@@ -140,7 +140,7 @@ class Program
     }
   }
 
-  static void EditRecipe(RecipeRepository repository) // Update function
+  static void EditRecipe(RecipeRepository repository) // Update function // Allows user to updat-add ingredients or recipes in terminal
   {
     Console.WriteLine("Title of the recipe you want to edit:");
     string? titleToEdit = Console.ReadLine();
