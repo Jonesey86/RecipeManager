@@ -1,7 +1,9 @@
 * 🧾 Recipe Manager 🧾
 
 * Introduction 📖
- I made this to practice C# and to practice with lists and data management (CRUD).
+* I made this to practice C# and to practice with lists and data management (CRUD).
+* (CRUD) Create-Read-Update-Delete.
+
  It has view, add, delete and edit functions, it also stores the data in json.
  
 
