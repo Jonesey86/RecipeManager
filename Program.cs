@@ -119,7 +119,7 @@ class Program
     Console.WriteLine("Recipe added");
   } 
 
-  static void DeleteRecipe(RecipeRepository repository)
+  static void DeleteRecipe(RecipeRepository repository) //Delete function
   {
     Console.WriteLine("Enter the title of the recipe you want to delete:");
     string? titleToDelete = Console.ReadLine();
@@ -139,7 +139,7 @@ class Program
     }
   }
 
-  static void EditRecipe(RecipeRepository repository) // Update
+  static void EditRecipe(RecipeRepository repository) // Update function
   {
     Console.WriteLine("Title of the recipe you want to edit:");
     string? titleToEdit = Console.ReadLine();
