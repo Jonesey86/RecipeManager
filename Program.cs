@@ -43,7 +43,7 @@ class Program
           Console.WriteLine("Goodbye.");
           return;
         default:
-          Console.WriteLine("Invalid choice, try again.");
+          Console.WriteLine("Invalid choice, please try again.");
           break;
 
       }
