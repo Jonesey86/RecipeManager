@@ -1,4 +1,4 @@
-* 🧾 Recipe Manager 🧾
+🧾 Recipe Manager 🧾
 
 📖 Introduction 📖
 
@@ -11,7 +11,7 @@
 
 💻 How to use 💻
 
-* In visual Code Studios go to Terminal tab-Open new Terminal- then follow instructions bellow to be able to run program.
+* In Visual Studio Code go to Terminal tab -Open new Terminal- then follow instructions to be able to run program.
 * dotnet run
 * follow instructions on screen to add, edit, view or delete
 * Package used
